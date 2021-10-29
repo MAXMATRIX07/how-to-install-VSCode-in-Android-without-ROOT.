@@ -2,6 +2,7 @@
 
 
 How to install VS Code in an Android Phone?
+
 Loading...
 
 In this post, we will see how you can install vs code on an android device. We will use one of the most popular android terminals called termux.
